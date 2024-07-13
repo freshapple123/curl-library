@@ -125,4 +125,3 @@ How to Interwork Curl Library with Visual Studio<br>
 
 <br><br>
 
-혹여나 특이점, 오류가 발생하면 댓글을 쓰면 알려드리겠습니다.
